@@ -34,21 +34,20 @@ In this section,this is where various network traffic to and from Azure Virtual 
 
 ![image](https://github.com/Tcoursecareers23/Azure-network/assets/138035327/630e61dd-0b2a-4627-8be9-30cf324dfa7f)
 
+
+![image](https://github.com/Tcoursecareers23/Azure-network/assets/138035327/632b4056-d560-481f-b67f-e5acf86f71d8)
+
+<br />
+
+<p>
+
+</p>
 <p>
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
