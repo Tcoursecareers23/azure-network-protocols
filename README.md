@@ -31,9 +31,9 @@ In this section,this is where various network traffic to and from Azure Virtual 
 
 <h2>Actions and Observations</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
+![image](https://github.com/Tcoursecareers23/Azure-network/assets/138035327/630e61dd-0b2a-4627-8be9-30cf324dfa7f)
+
 <p>
 
 </p>
