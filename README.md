@@ -38,8 +38,9 @@ In this section,this is where various network traffic to and from Azure Virtual 
 
 ![image](https://github.com/Tcoursecareers23/azure-network-protocols/assets/138035327/700ac375-6936-4c7a-a2e3-a4b34f9fb7a8)
 
+![Screenshot 2023-06-30 162302](https://github.com/Tcoursecareers23/azure-network-protocols/assets/138035327/fba6225a-9810-4812-b3d2-cbf2d336d6c7)
 
-</p>
+
 <p>
 
 </p>
